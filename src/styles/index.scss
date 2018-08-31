@@ -1,0 +1,21 @@
+.fht_model {
+  padding: 20px;
+  .fht_model_container {
+    text-align: center;
+    font-size: 28px;
+    .fht_model_title {
+      font-size: 32px;
+    }
+    .fht_model_content {
+
+    }
+    .fht_model_footer {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      .btn_footer {
+        margin: 0 20px;
+      }
+    }
+  }
+}
